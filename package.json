@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dschaller/renovaterepo/issues"
   },
-  "homepage": "https://github.com/dschaller/renovaterepo#readme"
+  "homepage": "https://github.com/dschaller/renovaterepo#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
