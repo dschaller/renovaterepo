@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dschaller/renovaterepo#readme",
   "dependencies": {
     "react": "16"
+  },
+  "engines": {
+    "yarn": "^1.22.11"
   }
 }
